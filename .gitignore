@@ -1,0 +1,17 @@
+# Игнорируем файлы журналов
+*.log
+
+# Игнорируем временные файлы
+*~
+
+# Игнорируем директорию node_modules
+node_modules/
+
+# Игнорируем файл базы данных SQLite
+database.sqlite
+
+.idea/
+.DS_Store
+*.pyc
+__pycache__/
+thumbs.db
